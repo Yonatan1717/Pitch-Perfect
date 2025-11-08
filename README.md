@@ -7,7 +7,7 @@ Funksjoner
 - Sanntids audioopptak (PyAudio)
 - FFT-basert frekvensdeteksjon med kvarttoner/cent-beregning
 - GUI (PyQt5) med knapper for å starte/stoppe og plotte siste rammer eller flere sekunder
-- Ferdig bygget Windows .exe i `./Application/Pitch Perfect.exe`
+- Ferdig bygget Windows .exe i `./Application/Pitch Perfect.exe`, denne er det bare å installere å kjør.
 
 Krav
 - Python 3.11 — 3.14 anbefales
@@ -69,10 +69,7 @@ Vanlige problemer / feilsøking
 - Matplotlib-vinduer åpner seg ikke: sørg for at GUI-tråden ikke blokkeres; bruk plot-knappene i applikasjonen.
 
 Bidra
-- Hvis du vil gjøre endringer, lag en fork og send en pull request. Beskriv endringen og hvordan den kan testes.
-
-Lisens
-- Ingen lisens fil inkludert. Legg til en `LICENSE`-fil hvis du ønsker å angi lisens (f.eks. MIT).
+- Hvis du vil gjøre endringer, lag en Branch og send en pull request. Beskriv endringen og hvordan den kan testes.
 
 Kontakt
 - Spørsmål eller forslag kan legges i repository issues.
